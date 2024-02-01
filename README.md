@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/dante-marcos-delprato/](https://www.linkedin.com/in/dante-marcos-delprato/)
 
-- ⚡ Fun fact **I ❤ BoardGames.**
+- ⚡ Fun fact - **I ❤ BoardGames.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
