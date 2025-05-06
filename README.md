@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dante Delprato</h1>
 <h3 align="center">A passionate junior full-stack developer from Argentina</h3>
 
-- 🔭 I’m currently working on [ElectroTools - E-Commers Proyect](https://github.com/YoElDante/grupo_2_herramientasElectricas)
+- 🔭 My last work was [ElectroTools - E-Commers Proyect](https://github.com/YoElDante/grupo_2_herramientasElectricas)
 
 - 🌱 I’m currently learning **React from a curse of Digital House edtech organization**
 
