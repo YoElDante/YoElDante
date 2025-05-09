@@ -3,11 +3,11 @@
 
 - 🔭 My last work was [ElectroTools - E-Commers Proyect](https://github.com/YoElDante/grupo_2_herramientasElectricas)
 
-- 🌱 I’m currently learning **React from a curse of Digital House edtech organization**
+- 🌳 Proud graduate of the **Full Stack Web Developer course at Digital House edtech organization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YoElDante](https://github.com/YoElDante)
 
-- 💬 Ask me about **Front-end, Back-end and React**
+- 💬 Ask me about **Front-end with EJS & React, Back-end with Node.js & Express**
 
 - 📫 How to reach me **dantedelprato@gmail.com**
 
