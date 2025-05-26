@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dante Delprato</h1>
-<h3 align="center">A passionate junior full-stack developer from Argentina, currently living in Sydney, Australia</h3>
-
-- 🎓 Currently studying an **Advanced Intensive English Course** and pursuing an **Advanced Certification in Information Technologies** with a student visa.
+<h3 align="center">A passionate junior full-stack developer from Argentina</h3>
 
 - 🔭 My last work was [ElectroTools - E-Commers Proyect](https://github.com/YoElDante/grupo_2_herramientasElectricas)
 
