@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Dante Delprato</h1>
-<h3 align="center">A passionate junior full-stack developer from Argentina</h3>
+<h3 align="center">A passionate full-stack developer from Argentina</h3>
 
-- 🔭 My last work was (https://Alcaldia.com.ar)-(https://demo.Alcaldia.com.ar)-(https://gateway.Alcaldia.com.ar)
+- 🔭 **My latest work**
+  - 🌐 **Main Website:** https://alcaldia.com.ar
+  - 🖥️ **Live Demo:** https://demo.alcaldia.com.ar
+  - 💳 **Payment Gateway:** https://gateway.alcaldia.com.ar
 
 - 🌳 Proud graduate of the **Full Stack Web Developer course at Digital House edtech organization**
 
